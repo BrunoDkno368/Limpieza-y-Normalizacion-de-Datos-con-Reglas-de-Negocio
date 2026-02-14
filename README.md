@@ -30,6 +30,7 @@ Regex (re)
 Google Colab
 
 🗂️ Estructura del proceso ETL
+
 1️⃣ Extract (E)
 
 Lectura de un archivo CSV con múltiples inconsistencias:
@@ -52,6 +53,7 @@ La etapa principal del proyecto.
 Cada columna fue tratada de forma independiente, aplicando reglas de negocio explícitas.
 
 🔹 Limpieza y decisiones por columna
+
 🆔 id_cliente
 
 Reglas de negocio
